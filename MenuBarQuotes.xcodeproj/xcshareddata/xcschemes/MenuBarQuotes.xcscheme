@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C2D7E3D79ABC2C78E3F83720"
-               BuildableName = "TrinQuotes.app"
-               BlueprintName = "TrinQuotes"
-               ReferencedContainer = "container:TrinQuotes.xcodeproj">
+               BuildableName = "MenuBarQuotes.app"
+               BlueprintName = "MenuBarQuotes"
+               ReferencedContainer = "container:MenuBarQuotes.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C2C10CE861B795B2EA996F5"
-               BuildableName = "TrinQuotesTests.xctest"
-               BlueprintName = "TrinQuotesTests"
-               ReferencedContainer = "container:TrinQuotes.xcodeproj">
+               BuildableName = "MenuBarQuotesTests.xctest"
+               BlueprintName = "MenuBarQuotesTests"
+               ReferencedContainer = "container:MenuBarQuotes.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0C2C10CE861B795B2EA996F5"
-               BuildableName = "TrinQuotesTests.xctest"
-               BlueprintName = "TrinQuotesTests"
-               ReferencedContainer = "container:TrinQuotes.xcodeproj">
+               BuildableName = "MenuBarQuotesTests.xctest"
+               BlueprintName = "MenuBarQuotesTests"
+               ReferencedContainer = "container:MenuBarQuotes.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C2D7E3D79ABC2C78E3F83720"
-            BuildableName = "TrinQuotes.app"
-            BlueprintName = "TrinQuotes"
-            ReferencedContainer = "container:TrinQuotes.xcodeproj">
+            BuildableName = "MenuBarQuotes.app"
+            BlueprintName = "MenuBarQuotes"
+            ReferencedContainer = "container:MenuBarQuotes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -86,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C2D7E3D79ABC2C78E3F83720"
-            BuildableName = "TrinQuotes.app"
-            BlueprintName = "TrinQuotes"
-            ReferencedContainer = "container:TrinQuotes.xcodeproj">
+            BuildableName = "MenuBarQuotes.app"
+            BlueprintName = "MenuBarQuotes"
+            ReferencedContainer = "container:MenuBarQuotes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

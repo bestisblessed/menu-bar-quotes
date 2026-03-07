@@ -241,7 +241,7 @@ final class ManageQuotesWindowController: NSWindowController, NSTableViewDataSou
     @objc private func exportQuotes() {
         let panel = NSSavePanel()
         panel.title = "Export Quotes"
-        panel.nameFieldStringValue = "trin-quotes.txt"
+        panel.nameFieldStringValue = "menu-bar-quotes.txt"
         panel.allowedContentTypes = [.plainText]
 
         guard panel.runModal() == .OK, let url = panel.url else { return }

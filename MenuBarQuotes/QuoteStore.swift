@@ -11,7 +11,7 @@ final class UserDefaultsQuoteStore: QuoteStore {
 
     init(
         defaults: UserDefaults = .standard,
-        key: String = "trin_quotes_app_state_v1"
+        key: String = "menu_bar_quotes_app_state_v1"
     ) {
         self.defaults = defaults
         self.storageKey = key

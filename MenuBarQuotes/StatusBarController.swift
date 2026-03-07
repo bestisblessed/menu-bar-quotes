@@ -9,7 +9,7 @@ final class StatusBarController: NSObject {
     private let currentQuoteItem = NSMenuItem(title: "No quotes configured", action: nil, keyEquivalent: "")
     private let nextQuoteItem = NSMenuItem(title: "Next Quote Now", action: nil, keyEquivalent: "")
     private let manageQuotesItem = NSMenuItem(title: "Manage Quotes…", action: nil, keyEquivalent: "")
-    private let quitItem = NSMenuItem(title: "Quit Trin Quotes", action: nil, keyEquivalent: "")
+    private let quitItem = NSMenuItem(title: "Quit Menu Bar Quotes", action: nil, keyEquivalent: "")
 
     var onNextQuote: (() -> Void)?
     var onManageQuotes: (() -> Void)?
